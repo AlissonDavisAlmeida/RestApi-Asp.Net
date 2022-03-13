@@ -13,8 +13,8 @@
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
-*appsettings.Development.json
-*appsettings.json
+RestWithAspNet/RestWithAspNet/appsettings.Development.json
+RestWithAspNet/RestWithAspNet/appsettings.json
 Properties/
 
 # Mono auto generated files
